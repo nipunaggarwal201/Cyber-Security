@@ -1,0 +1,32 @@
+
+.image{
+	position: relative;
+	border-radius: 15px;
+}
+.image .heading1{
+    position:absolute;
+    bottom:20%;
+    left:10%;
+    border:none;
+}
+#button1{
+
+	border-radius:20px;
+	border: none;
+	color: white;
+	padding:10px;
+	font-size: 15px;
+	background-color: rgba(240, 15, 154, 0.815);
+}
+#button1 a{
+	color:white;
+}
+#button1 a:hover{
+
+	color:rgb(211, 25, 81)
+}
+#admin{
+
+	color:grey;
+	font-size: 10px;
+}

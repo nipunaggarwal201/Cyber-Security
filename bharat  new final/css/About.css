@@ -1,0 +1,93 @@
+.image{
+    position: relative;
+}
+.image .heading1{
+    position:absolute;
+    bottom:20%;
+    left:10%;
+    border:none;
+}
+#panel2{
+
+    border:none;
+}
+#panel{
+
+    border:none;
+}
+#button1{
+
+	border-radius:10px;
+	border: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:30px;
+    padding-right: 30px;
+	font-size: 12px;
+	background-color: rgba(240, 15, 154, 0.815);
+}
+#image{
+    position: relative;
+}
+#heading1{
+    position:absolute;
+    bottom:20%;
+    left:10%;
+}
+#container1 {
+    position: relative;
+}    
+#heading2{
+    position: absolute;
+    font-weight:600;
+    color:gray;
+    float:left;
+    font-size:3vw;
+}
+#center{
+    font-weight:800;
+    text-align:center;
+}
+#team{
+	
+	background: white;
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+.center{
+    font-weight:800;
+    text-align:center;
+}
+#more{
+
+	display:none;
+}
+
+#fb {
+	display: -ms-inline-flex;
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	width: 32px;
+	height: 32px;
+	color: #fff;
+	background: #491f70;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	border-radius: 50%;
+	margin-right: 13px;
+	font-size: 12px;
+	-webkit-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	transition: all 0.4s;
+}
+
+#fb a:hover {
+	background: #eb2b63;
+}
